@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Cryptocurrencies - Unsupervised Machine Learning
 
 1.) Reducing dimensions using Principal Components Anaylsis
 
